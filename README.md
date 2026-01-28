@@ -2,6 +2,8 @@
 ## Gold Six to Gold Leader, below is a summary of our progress.
 Contributors: Ben, Jake, Steven, Maurice
 
+Check out the game here: [NotJustAnotherStarWarsGame](https://benny08y.github.io/NotJustAnotherStarWarsGame/)
+
 # Prototype:
 ## Completed Parts:
 ### Menu Screen
